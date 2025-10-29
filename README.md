@@ -18,7 +18,7 @@ Open this project on the PlatformIO IDE and run the project task "Upload and Mon
 
 ## Connections
 
-### HC-SR04
+### UDA1334
 
 - VIN: 
 - 3V0: ~
